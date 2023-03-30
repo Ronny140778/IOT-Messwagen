@@ -35,7 +35,7 @@ Messwagen.h
 - const int sizeAvg = 10; (legt fest aus wie vielen Werten Steigung & Neigung ein Mittelwert gebildet wird / Glättung der Werte)
 
 ### Hinweise
-- Wenn keine SSID konfiguriert ist oder das Netzwerk nicht in Reichweite ist, startet der Messwagen als AccessPoint. Es wird ein offenens Netzwerk "Messwagen" gestartet. Unter der konfigurierten IP kann dann im Browser die Website geöffnet werden. Ist eine SSID konfiguriert, kann man entweder im Rounter schauen welche IP der Messwagen bekommen hat (sollte sich beim Router auch als Messwagen ausgeben) oder wenn man beim Start des Messwagens die serielle Schnittstelle geöffnet ist, wird auch dort die zugewiesene IP ausgegeben.
+- Wenn keine SSID konfiguriert ist oder das Netzwerk nicht in Reichweite ist, startet der Messwagen als AccessPoint. Es wird ein offenens Netzwerk "Messwagen" gestartet. Unter der konfigurierten IP kann dann im Browser die Website geöffnet werden. Ist eine SSID konfiguriert, kann man entweder im Rounter schauen welche IP der Messwagen bekommen hat (gibt sich beim Router auch als Messwagen aus) oder wenn man beim Start des Messwagens die serielle Schnittstelle geöffnet ist, wird auch dort die zugewiesene IP ausgegeben.
 - Die Antenne des Arduino nanos liegt in Fahrtrichtung vorn (wichtig für die Ermittlung der Steigung).
 - Da der Arduino nano nur 3,3 V an den analogen und digitalen Eingängen verträgt habe ich einen unipolaren Hallsensor genutzt, der bereits mit 3,3 V arbeitet. 
 - Für die Stromversorgung nutze ich aktuell einen Li-Ion-Akku (14500) in Verbindung mit einem Lade/Entladeregler. Dieser ist relativ schwer, es ist sinnvoll hier nach einer anderen Möglichkeit zu suchen (Mini-Lipo-Akku). 
