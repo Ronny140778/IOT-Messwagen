@@ -39,3 +39,6 @@ Messwagen.h
 - Die Antenne des Arduino nanos liegt in Fahrtrichtung vorn (wichtig für die Ermittlung der Steigung).
 - Da der Arduino nano nur 3,3 V an den analogen und digitalen Eingängen verträgt habe ich einen unipolaren Hallsensor genutzt, der bereits mit 3,3 V arbeitet. 
 - Für die Stromversorgung nutze ich aktuell einen Li-Ion-Akku (14500) in Verbindung mit einem Lade/Entladeregler. Dieser ist relativ schwer, es ist sinnvoll hier nach einer anderen Möglichkeit zu suchen (Mini-Lipo-Akku). 
+
+### Thread bei 1zu160.net
+[IOT-Messwagen bei 1zu160.net](https://www.1zu160.net/scripte/forum/forum_show.php?id=1344346)
