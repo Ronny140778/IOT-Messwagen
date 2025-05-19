@@ -1,11 +1,7 @@
 # IOT-Messwagen
 IOT-Messwagen für die Modellbahn
 
-### Wichtig 1
-Wer das Projekt unterstützen/honorieren möchte, den bitte ich das Geld an folgende goFundMe-Kampange zu spenden.  
-<a href="https://www.gofundme.com/f/hilfe-fr-eine-therapie-fr-unseren-sohn-dennyric" title="Spende bei goFundMe">https://www.gofundme.com/f/hilfe-fr-eine-therapie-fr-unseren-sohn-dennyric</a>
-
-### Wichtig 2
+### Wichtig
 Ich bin ein Java-Entwickler, es kann also sein, dass einige Dinge nicht so programmiert wurden wie es ein echter C-Entwickler machen würde..
 
 ### Umfang des Projektes
